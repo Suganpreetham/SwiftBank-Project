@@ -2,7 +2,6 @@
 
 A distributed banking platform I built to learn how real backend systems work — not just CRUD, but actual microservices talking to each other through events, with real problems like race conditions, duplicate requests, and cache consistency.
 
-🌐 [Live Frontend](I will add in few hours--06/06/2026 afternoon)
 
 ## What is this?
 
